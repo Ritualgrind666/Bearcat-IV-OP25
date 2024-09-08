@@ -1,6 +1,6 @@
 # Raspberry Pi OP25 Bearcat IV "Police Scanner"
 Software and hardware to build a system using the shell of a old Electra Bearcat IV Police scanner to monitor and decode signals using OP25.        
-![PXL_20240902_032409690small2](https://github.com/user-attachments/assets/84ced60d-4649-4e24-9106-1f39d18b6ae6)
+![PXL_20240902_032409690small2](https://github.com/user-attachments/assets/1cffa829-97ba-4153-92ec-7f9802e32b6d)
 
 
 ## Features
@@ -49,21 +49,24 @@ Software and hardware to build a system using the shell of a old Electra Bearcat
 Not a lot of explanation on wiring and guts of this thing, other than pinouts shown in the code.  Below are some images of my setup and terrible looking wiring connections. I used a dremel to cut a hole in the top for the LCD display.  3D printed and painted a bezel for the display.  cutup a old computer speaker and wired the power button onto the front of the Bearcat.  Lots of hot glue.  Put a power button and plug mounted to rear of the setup using existing holes.      
 ### TOP VIEW
 * * *
-![LCDsmall](https://github.com/user-attachments/assets/f0eb8604-9dd8-4497-a288-96f2d74d4142)
-![LCDsmall2](https://github.com/user-attachments/assets/10a6b3eb-f3d0-48dd-a2e6-28d6f8f59a31)
-![ledred](https://github.com/user-attachments/assets/1be0e533-6c8c-440f-814b-d9a665850181)        
-![ledblue](https://github.com/user-attachments/assets/ca5db6b0-1c7d-43fb-809b-6ea92d9e9ebc)
-![topview](https://github.com/user-attachments/assets/cd16134b-9f2d-40d3-9de5-147834e10e64)
-![speaker](https://github.com/user-attachments/assets/d3248927-c977-4a8b-88ee-48feba8b351f)
-![LCD cutout](https://github.com/user-attachments/assets/ccf6ed7e-08ce-47c5-b472-527e419c8526)
-![LECD back](https://github.com/user-attachments/assets/b3ab25e4-a019-4a81-a30c-745bed70d804)
-![LCD front](https://github.com/user-attachments/assets/52a05b5a-4d2c-421a-8974-f6703b96f5a8)
-![smallpanel](https://github.com/user-attachments/assets/028e6e37-24d8-4cfa-8dfd-b1e4d5b0f0aa)
-![LCD Back](https://github.com/user-attachments/assets/b0585cbe-9c42-4024-891e-65b292f410a3)
+![LCDsmall](https://github.com/user-attachments/assets/27a2e336-c821-4910-94cb-d7a7ec3c5f3e)
+![LCDsmall2](https://github.com/user-attachments/assets/5a992441-ee58-4630-8a9f-987065170791)
+![ledred](https://github.com/user-attachments/assets/69a83609-abb8-458a-9eea-645baef564f0)
+![ledblue](https://github.com/user-attachments/assets/99df5c95-6d8e-4dc1-b70c-f6c62ce9f8ff)
+![topview](https://github.com/user-attachments/assets/e31aa9b8-5f0a-4a1a-9741-83bc9dcf56f7)
+![speaker](https://github.com/user-attachments/assets/b4ab23e0-83fe-434f-ae1a-b8bc748ac017)
+![LCD cutout](https://github.com/user-attachments/assets/4b9964e1-c0f5-424f-b120-924b0d3619cf)
+![LECD back](https://github.com/user-attachments/assets/f77f546e-307a-40c1-9007-b59c714c6314)
+![LCD front](https://github.com/user-attachments/assets/c853cb77-d1e9-4e55-b984-4316ff443c6a)
+![smallpanel](https://github.com/user-attachments/assets/be6ae4aa-81d2-40d3-9119-672b8f3841b2)
+![LCD Back](https://github.com/user-attachments/assets/85b619a8-37fa-47ac-a5b4-93e04df13c84)
+
 ### BOTTOM VIEW
 * * *
-![bottom](https://github.com/user-attachments/assets/bf5dc53d-8bb9-48f2-bfee-22e989c23925)
-![speaker back](https://github.com/user-attachments/assets/0e6b86f3-069a-45e6-b33a-550ec56bb2df)        
+![bottom](https://github.com/user-attachments/assets/78207cad-7d93-449a-bf11-473cde433d82)
+![speaker back](https://github.com/user-attachments/assets/77a9c0dd-bdbf-472c-9877-5287f4efd3ab)
+      
 ### REAR VIEW
 * * *
-![PXL_20240902_032131690small](https://github.com/user-attachments/assets/f697f63c-b8fb-45ba-b76c-eb93b2bd7dd0)
+![PXL_20240902_032131690small](https://github.com/user-attachments/assets/468c8211-180f-4cd9-8668-8f320f88ef67)
+
